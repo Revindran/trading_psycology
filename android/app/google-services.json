@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235916482490",
+    "project_id": "tradingpsychology-5070b",
+    "storage_bucket": "tradingpsychology-5070b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235916482490:android:17bf95b8cec1c7fa196f83",
+        "android_client_info": {
+          "package_name": "com.rar.trading_psycology.trading_psycology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235916482490-b86a365ejeaa9c18fmqm6gvte0m19vec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FXzISyU2pRasIZzegQda4qWzbt5d-6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235916482490-b86a365ejeaa9c18fmqm6gvte0m19vec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
